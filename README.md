@@ -34,3 +34,5 @@ News API and custom dataset for training
 **Contact:**
 For inquiries or collaboration, contact Sridhar R at rsridharofficial97@gmail.com.
 
+**API Credits:**
+https://www.newscatcherapi.com/
